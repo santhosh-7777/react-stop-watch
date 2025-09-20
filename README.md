@@ -13,10 +13,7 @@ A simple **React.js stopwatch** with milliseconds and lap tracking.
 
 ---
 
-## Demo
 
-![Stopwatch Screenshot](screenshot.png)  
-> Replace `screenshot.png` with your image or GIF.
 
 ---
 
